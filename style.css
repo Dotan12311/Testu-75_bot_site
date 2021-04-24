@@ -13,3 +13,10 @@ body{
     font-size: 75;
     font-family: 'Varela Round', sans-serif;width: 40%;
 }
+.refresh{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    left: 100%;
+    top: 100%;
+}
