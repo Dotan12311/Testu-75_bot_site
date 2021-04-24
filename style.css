@@ -1,0 +1,15 @@
+body{
+    background: lime;
+}
+.bn{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 100px;
+    width: 500px;
+    background: blue;
+    color: mediumaquamarine;
+    font-size: 75;
+    font-family: 'Varela Round', sans-serif;width: 40%;
+}
